@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "memoryz-api",
+  "private_key_id": "3c2bdeb723bc9d193c0a4613f362e4e2db7cca93",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+zbwHrw+42xl4\nm2WSC2/5lLWnPqLr0e6CuGO2vVcxprbVMCWDlDiiGTFiQwX+FzE8oh7cJ81a+fxr\nS5uv44ZtTNuPT7kiWw2X/3oK++lcaV1eWchVzd/AT9h8M0m7twn+wNnuD9jlPr3m\njA5vdsV4/i+P0BCN71TGaKx0L2AutZ9GuYX2sgEBdwK3Gsa6We62lxgFCzoL632w\nyUDIYbO8hkFBgK9h07o27X5R43ibDdlsnGkXmC78MddnkghQTKUzUZzJ86nQsufM\nSq+AhFckajaUq+UoYNhX0bgU8aDMwK6gGMpkYFj4ktLMPAdquMe2CIgwx/HGQVBt\nVZD+pQQRAgMBAAECggEABWGfUN6pvHqWd3G3jcTLj9AXRvwj42+IcPCjJFFnAwgb\nDjx1RGai6cR44Xb3NW1BRt7iLK6lMrCMA1kurwllXlINe7dhhvPnOF8c2bA06tWw\na9OvrCbaLY368rbOGLCfBCu7gcS55u5L9BOFaTSh+Wl+3SkevGgQfaeQXJcE+RA6\n+nYDnMAktwyq4/w0LDkVpizTFhDrNm8AfAH6nEBjgs0NwxYDJwwlt6E67rDH3QEl\n1vGaER5FFWbyUnzRHFluADO+uxrFtUWTj3N54JiFI31Iz677GNr4tJEAo4kNKr3i\nR+utI5z2q1Gs2G7E7X4Q4v+TKdCDpx/KljXGSdF/eQKBgQD5o1YsyemG44oUf457\n69cftoHg34VfOmQhXguM307jIbXaY0BvI4/HvDOD6CAm8etZZmExUMkZea61+Rtp\n1uGYOq0XE0TMTY+8y79il9ep3ut6mzC5gxcJTsBVv7eJi6YcXSuLkvhBZDF6aYB1\no1EIS0V4zzy9LIjQmSOxpp/gWQKBgQDDqo52sNMlcwhhEHXrfoJFtfjAiVQp9QHJ\n6Pd5vj4Tu9HvFLZ2WpTu23ncghMoI/K4y/K/CxhA2pOmeEt/Tls7ARd8k3x+mVgz\nvbrqkFw+v0O56zW1XzuADO83Jnlf6K6JxVApJ5L0ETC57Tvxla9D3bjo7Y9dcFWQ\nU9eAWsSKeQKBgQCSgZeLhZw1+8gHq6y1cX25MOUcUlH1x1EIfCcPL+ceSaRuXJ1u\nHFK/h+Y73bkw4f2bZAhaZuz+tHkiduXtwZx4OMdoqXhQ5pwa0wCpHjAFk7xjIj0A\nQrz8S2l5aaCPapO8RbnOmhx0VBbtnokzgPuHgJVvB0DATSimM5nNItrlUQKBgQCJ\nFUYoW6wikZwuPNUQvxpP8rSrV8tSdefh6MjxT1q4gp8LLGzFMKMlUTjoR21acw0L\ncT/JnuFIFprZR3BFacU66oHk8oOHQrHr1iJNUgR+pYuyhtqjDmxmQymZbugcTK1z\nsnx9yM8JFb4YlN+pWuBm4ME616zYnuojasoRkAYgqQKBgQDHM/l148H6SDp+2YhL\nL1WrdM6VicFsYUUPDPmn0aqzk23MTRW2jXlNRqWGxG/1RihO14b+xcDDvK0iqqc3\ntQXBu85ZrJWOhJqeYc5TWK488uk7GY604voJq1dU2Crq79rUHOPvOHIwulTk5a8E\n6hbiuzeyFNv3ZMdNtP4BS7cJcw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "info-memoryz-co@memoryz-api.iam.gserviceaccount.com",
+  "client_id": "102025966739586603337",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/info-memoryz-co%40memoryz-api.iam.gserviceaccount.com"
+}
